@@ -49,7 +49,7 @@
     "variables": {
         "logAnalyticsWorkspaceName": "lag-gitte-test-ai",
         "applicationInsightsName": "ai-gitte-test-ai",
-        "storageAccountName": "stggittetestai",
+        "storageAccountName": "stggittestai",
         "openaiServiceName": "aoai-gitte-test-ai",
         "functionPlanName": "asp1-gitte-test-ai",
         "functionAppNamePython": "func1-gitte-test-ai",
